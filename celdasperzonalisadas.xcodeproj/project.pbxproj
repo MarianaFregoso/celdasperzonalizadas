@@ -14,6 +14,7 @@
 		3DDA2E072151D86600C657E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DDA2E052151D86600C657E9 /* LaunchScreen.storyboard */; };
 		3DDA2E122151D86600C657E9 /* celdasperzonalisadasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DDA2E112151D86600C657E9 /* celdasperzonalisadasTests.swift */; };
 		3DDA2E1D2151D86600C657E9 /* celdasperzonalisadasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DDA2E1C2151D86600C657E9 /* celdasperzonalisadasUITests.swift */; };
+		3DDA2E2B2151DA2900C657E9 /* celdaAlumno.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DDA2E2A2151DA2900C657E9 /* celdaAlumno.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3DDA2E182151D86600C657E9 /* celdasperzonalisadasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = celdasperzonalisadasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DDA2E1C2151D86600C657E9 /* celdasperzonalisadasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = celdasperzonalisadasUITests.swift; sourceTree = "<group>"; };
 		3DDA2E1E2151D86600C657E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DDA2E2A2151DA2900C657E9 /* celdaAlumno.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = celdaAlumno.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				3DDA2DFC2151D85F00C657E9 /* AppDelegate.swift */,
 				3DDA2DFE2151D85F00C657E9 /* ViewController.swift */,
+				3DDA2E2A2151DA2900C657E9 /* celdaAlumno.swift */,
 				3DDA2E002151D85F00C657E9 /* Main.storyboard */,
 				3DDA2E032151D86600C657E9 /* Assets.xcassets */,
 				3DDA2E052151D86600C657E9 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				3DDA2DFF2151D85F00C657E9 /* ViewController.swift in Sources */,
 				3DDA2DFD2151D85F00C657E9 /* AppDelegate.swift in Sources */,
+				3DDA2E2B2151DA2900C657E9 /* celdaAlumno.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
